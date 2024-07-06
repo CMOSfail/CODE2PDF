@@ -1,0 +1,31 @@
+{
+    "pdfkit_path": "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
+    "file_types": {
+        "java": "Java/Kotlin Class",
+        "kt": "Kotlin Class",
+        "xml": "XML [Extensible Markup Language]",
+        "py": "Python Script",
+        "js": "JavaScript File",
+        "html": "HTML File",
+        "css": "CSS File",
+        "json": "JSON [JavaScript Object Notation]",
+        "md": "Markdown Document",
+        "sh": "Shell Script",
+        "bat": "Batch Script",
+        "rb": "Ruby Script",
+        "php": "PHP Script",
+        "pl": "Perl Script",
+        "c": "C Source File",
+        "cpp": "C++ Source File",
+        "cs": "C# Source File",
+        "go": "Go Source File",
+        "rs": "Rust Source File",
+        "swift": "Swift Source File",
+        "ts": "TypeScript File",
+        "r": "R Script",
+        "m": "MATLAB Script",
+        "sql": "SQL File",
+        "yml": "YAML File",
+        "tex": "LaTeX Document"
+    }
+}
